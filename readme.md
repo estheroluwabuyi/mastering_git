@@ -1,3 +1,4 @@
-## Hello Git
+## Yooo everyone!, welcome too my git guide
 
-- I'm adding this from `another-test-branch`...
+- Yo, Jon here!
+- I'm adding this from `another-test-branch`
